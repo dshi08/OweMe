@@ -3,6 +3,13 @@ what I feel is missing in my life?
 - hungry but dunno waht to cook
     - maybe an app that scans fridge and comes up with a recipe that could be made
     - add feature where can 
-
+- owing friends money and stuff
+    - OweMe app
+        - keep track of debts
+        - spliting costs
 
 plan / calendar
+May 1st-7th: learn some React Native and get settled
+May 8th-TBD: make a true plan for the rest of this project app
+May 9th: join the zoom meet!
+
